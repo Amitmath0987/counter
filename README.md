@@ -1,2 +1,2 @@
 # counter
- javascript counter by clicking the button.
+ counter the variable by clicking the button.
